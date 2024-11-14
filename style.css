@@ -1,0 +1,16 @@
+body {
+	background-color: #fbb1bd;
+	color: floralwhite;
+	font-family: monospace;
+}
+
+.container {
+	background-color: floralwhite;
+}
+
+.mx-auto {
+	width: 10vw;
+	height: 10vw;
+	object-fit: cover;
+}
+
